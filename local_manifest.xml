@@ -2,8 +2,9 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/laurel_sprout" name="HimanishM25/device_xiaomi_laurel_sprout.git" remote="github" revision="conquer-12" />
- <project path="vendor/xiaomi/laurel_sprout" name="HemantSachdeva/vendor_xiaomi_laurel_sprout.git" remote="github" revision="snow" />
+ <project path="device/xiaomi/laurel_sprout" name="HimanishM25/android_device_xiaomi_laurel_sprout.git" remote="github" revision="lineage-19.0" />
+ <project path="vendor/xiaomi/laurel_sprout" name="MasterAwesome/android_vendor_xiaomi_laurel_sprout.git" remote="github" revision="lineage-19.0" />
+ <project path="vendor/xiaomi/laurel_sprout-images" name="MasterAwesome/android_vendor_xiaomi_laurel_sprout-images.git" remote="github" revision="lineage-19.0" />
  <project path="kernel/xiaomi/laurel_sprout" name="HimanishM25/HavocOS_kernel_xiaomi_laurel_sprout.git" remote="github" revision="HavocOS_R" />
  
  <!-- Add-ons -->
