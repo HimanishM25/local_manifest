@@ -1,3 +1,4 @@
+![paranoid_android_logo](https://paranoidandroid.co/assets/logo_color.png)
 # AOSPA for Mi A3 (laurel_sprout)
 
 The Mi A3 (codenamed "laurel_sprout") is a mid-range smartphone from Xiaomi. It was announced and released in July 2019.
