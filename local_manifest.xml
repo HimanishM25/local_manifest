@@ -2,7 +2,7 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/laurel_sprout" name="HimanishM25/aospa_device_xiaomi_laurel_sprout.git" remote="github" revision="sapphire-wip" />
+ <project path="device/xiaomi/laurel_sprout" name="HimanishM25/aospa_device_xiaomi_laurel_sprout.git" remote="github" revision="conquer-12" />
  <project path="vendor/xiaomi/laurel_sprout" name="HimanishM25/aospa_vendor_xiaomi_laurel_sprout.git" remote="github" revision="sapphire-wip" />
  <project path="kernel/msm-4.14" name="HimanishM25/aospa_kernel_msm-4.14.git" remote="github" revision="sapphire-wip" />
  
